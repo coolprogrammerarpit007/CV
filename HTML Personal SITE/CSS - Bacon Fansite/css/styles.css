@@ -1,0 +1,30 @@
+/* Tag Selectors */
+
+/* body{
+    background-color: green;
+} */
+
+h1{
+    color:red;
+    font-size: 100px;
+}
+
+img:hover{
+    background-color: gold;
+}
+
+/* Class Selector */
+.backon{
+    background-color: green;
+}
+.brokkli{
+    background-color:red ;
+    border: none;
+    border-radius: 5px;
+}
+
+/* ****************ID SELECTORS ************* */
+
+#heading{
+    color: aqua;
+}
